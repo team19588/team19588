@@ -1,0 +1,10 @@
+vless://2e0a18a4-86bb-4362-9c6e-c2e3d2e96824@14.225.209.252:5149?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#14.252+grpc
+vless://2bdf5894-a2f6-4a75-8122-1aa0a8686686@14.225.209.252:3305?security=none&encryption=none&headerType=none&type=tcp#14.252+tcp
+vless://a405dbac-8492-4596-d189-15b93099cc8e@103.75.187.118:10000?security=none&encryption=none&headerType=none&type=tcp#103.118+tcp
+vless://e5c9f506-3d7a-40bf-e042-e96bf4bd3291@103.75.187.118:60000?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#103.118+grpc
+vless://5f2c706a-6d19-410b-9502-38c6f5774c38@203.245.11.112:2526?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#korea+grpc
+vless://00311b79-a775-4466-f088-698d843a577c@203.245.11.112:2425?security=none&seed=hyH6PmuwAe&encryption=none&headerType=none&type=kcp#korea+kcp
+vless://d985d464-3ac6-4d9d-c7ba-e7b44e89456b@203.245.11.112:2324?security=none&encryption=none&headerType=none&type=tcp#korea+tcp
+vless://31c646e6-fc37-49e6-b48b-ea25c4879d9b@crack2.474tuku.com:10000?security=none&encryption=none&headerType=none&type=tcp#india+tcp
+vless://87a274d7-7633-4252-f7e2-bd15a3c540ea@crack2.474tuku.com:11000?security=none&seed=N7TL4Zzmr4&encryption=none&headerType=none&type=kcp#india+kcp
+vless://09e209c8-0670-4715-af73-ddac1218f85c@crack2.474tuku.com:12000?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#india+grpc
